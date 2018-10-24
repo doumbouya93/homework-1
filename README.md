@@ -94,39 +94,39 @@ Please edit this file to add your answers to the following questions.
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost
+* What is the port number? 4000
+* What is the path? admin
+* What are the query parameters? no query parameters
+* What is the fragment? None
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? lehman
+* What is the port number? 80
+* What is the path? academics/mathematics-computer-science/index
+* What are the query parameters? None
+* What is the fragment? None
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host? wikipedia
+* What is the port number? 443
+* What is the path? wiki/Greek_alphabet
+* What are the query parameters? None
+* What is the fragment? Glyph_variants`
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? Security
 
-Why is HTTPS better than HTTP?
+Why is HTTPS better than HTTP? Because HTTPS is more secured Than HTTP especially when inputing sensitive information.
 
-Should all web pages use HTTPS?
+Should all web pages use HTTPS? No
 
 
 ## Webpages
