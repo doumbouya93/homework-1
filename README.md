@@ -37,7 +37,7 @@ Then click the pencil icon to edit it:
 
 ![Edit button](./images/edit.png)
 
-Next, edit this line to add your name: **Your Name**
+Next, edit this line to add your name: **Jonathan Fabian**
 
 Click the "Preview changes" tab to see your changes.
 
@@ -54,7 +54,7 @@ You should now see your name above (instead of "Your Name"). You can also see yo
 
 Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
 
-[My LinkedIn Profile](https://www.linkedin.com/in/.../)
+[https://www.linkedin.com/in/jonathan-fabian-33611389/](https://www.linkedin.com/in/.../)
 
 
 ### 5. Setup GitHub Pages
