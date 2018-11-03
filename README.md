@@ -122,11 +122,14 @@ Please edit this file to add your answers to the following questions.
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS? Security
+What does the S stand for in HTTPS?
+Security
 
-Why is HTTPS better than HTTP? Because HTTPS is more secured Than HTTP especially when inputing sensitive information.
+Why is HTTPS better than HTTP? 
+Because HTTPS is more secured Than HTTP especially when inputing sensitive information.
 
-Should all web pages use HTTPS? No
+Should all web pages use HTTPS? 
+No.
 
 
 ## Webpages
@@ -155,81 +158,125 @@ What's one webpage you like? Why?
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags? https://www.w3schools.com/
+Where is a good place to look for information about HTML tags? 
+https://www.w3schools.com/
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag? HTML5.  DOCTYPE tag it is an instruction to the web browser about what version of HTML the page is written in.
+Which version of HTML are we covering in this class? What is it's DOCTYPE tag? 
+HTML5. DOCTYPE tag it is an instruction to the web browser about what version of HTML the page is written in.
 
 
-What is XML? is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. 
+What is XML? 
+Is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable. 
 
-What is XHTML? XHTML stands for EXtensible HyperText Markup Language.
+What is XHTML? 
+XHTML stands for EXtensible HyperText Markup Language.
 XHTML is almost identical to HTML, stricter than HTML and defined as an XML application.
 XHTML is supported by all major browsers.
 
 
 ### 15. HTML
 
-Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program? No.
+Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program? 
+No.
 
 
-Are HTML files interpreted or executed? interpreted.
+Are HTML files interpreted or executed? 
+interpreted.
 
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag? Internet Explorer 9.
+Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+ Internet Explorer 9.
  
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML? Markup Validation Service.
+What is one tool that can tell you if you have written valid HTML? 
+Markup Validation Service.
 
 
 ### 18. Accessibility
 
-What does "Accessibility" mean in the context of web development? The Web must be accessible to provide equal access and equal opportunity to people with diverse abilities. Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.
+What does "Accessibility" mean in the context of web development? 
+The Web must be accessible to provide equal access and equal opportunity to people with diverse abilities. Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.
 
-What types of people does accessibility concern? People with disabilities, or special needs such as people who cant see well or not see at all and people who are death. 
+What types of people does accessibility concern? 
+People with disabilities, or special needs such as people who cant see well or not see at all and people who are death. 
 
-What is one tool you can use to verify the accessibility of your websites? DYNO Mapper is a sitemap generator that checks the web accessibility of websites and online applications. 
+What is one tool you can use to verify the accessibility of your websites?
+DYNO Mapper is a sitemap generator that checks the web accessibility of websites and online applications. 
 
 
 ### 19. head / body
 
-What is the `<head>` tag for? The <head> element is a container for all the head elements. The <head> element can include a title for the document, scripts, styles, meta information, and more. 
+What is the `<head>` tag for? 
+The <head> element is a container for all the head elements. The <head> element can include a title for the document, scripts, styles, meta information, and more. 
 
-What is the `<body>` tag for? The HTML <body> tag defines the main content of the HTML document or the section of the HTML document that will be directly visible on your web page.
+What is the `<body>` tag for? 
+The HTML <body> tag defines the main content of the HTML document or the section of the HTML document that will be directly visible on your web page.
 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
+The main difference is that the <head> element is for META data and the <header> element is for actual content. The HTML <head> tag is a container for metadata and links to scripts and stylesheets. The <header> tag is a semantic container used to designate contents that is introductory or navigational in nature.
 
 
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+<table>	Defines a table
+<th>	Defines a header cell in a table
+<tr>	Defines a row in a table
+<td>	Defines a cell in a table
+<caption>	Defines a table caption
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<col>	Specifies column properties for each column within a <colgroup> element
+<thead>	Groups the header content in a table
+<tbody>	Groups the body content in a table
+<tfoot>	Groups the footer content in a table
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
+<area> 
+<base> 
+<br> 
+<col> 
+<command> 
+<embed> 
+<hr> 
+<img> 
+<input> 
+<keygen> 
+<link>
+<meta>
+<param> 
+<source> 
+<track> 
+<audio> 
+<wbr> 
 
 
 ### 23. Links
 
 How do you make a link open in a new window?
+add a target="_blank" attribute to your links
+Ex. <a href="https://www.helloworld.com/" target="_blank">Visit Hello World!</a>
 
 
 ### 24. IFRAME
 
 What is an IFRAME?
+An IFrame(Inline Frame) is an HTML document embedded inside another HTML document on a website. 
 
 What are IFRAMEs commonly used for?
-
+The IFrame HTML element is often used to insert content from another source, such as an advertisement, into a Web page.
 
 ## Writing Code
 
