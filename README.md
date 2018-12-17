@@ -307,10 +307,15 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
+Just right.
 
 
 ### 29. Jobs
 
 Add a link to one web development job based in NYC:
+http://www.andiamogo.com/job/view/9846
 
 What do you still need to learn to meet the requirements?
+1+ years of experience with SQL
+Knowledge of AngularJS, jQuery and AJAX
+Knowledge of UNIX/Linux
