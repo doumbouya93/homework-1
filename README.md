@@ -148,6 +148,12 @@ A webpage is a simple document displayable by a browser.
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
+https://www.mbusa.com/en/home - Mercedez Benz home page
+
+USER-FRIENDLY
+RESPONSIVE DESIGN
+PERSONALIZED USER EXPERIENCE
+
 
 
 
@@ -222,45 +228,44 @@ The HTML <body> tag defines the main content of the HTML document or the section
 
 ### 20. Head…
 
-What's the difference between `<head>`, `<header>`, and heading tags?
-The main difference is that the <head> element is for META data and the <header> element is for actual content. The HTML <head> tag is a container for metadata and links to scripts and stylesheets. The <header> tag is a semantic container used to designate contents that is introductory or navigational in nature.
+What's the difference between `<head>`, `<header>`, and heading tags? The main difference is that the <head> element is for META data and the <header> element is for actual content. The HTML <head> tag is a container for metadata and links to scripts and stylesheets. The <header> tag is a semantic container used to designate contents that is introductory or navigational in nature.
 
 
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
-<table>	Defines a table
-<th>	Defines a header cell in a table
-<tr>	Defines a row in a table
-<td>	Defines a cell in a table
-<caption>	Defines a table caption
-<colgroup>	Specifies a group of one or more columns in a table for formatting
-<col>	Specifies column properties for each column within a <colgroup> element
-<thead>	Groups the header content in a table
-<tbody>	Groups the body content in a table
-<tfoot>	Groups the footer content in a table
+.<table>	Defines a table
+.<th>	Defines a header cell in a table
+.<tr>	Defines a row in a table
+.<td>	Defines a cell in a table
+.<caption>	Defines a table caption
+.<colgroup>	Specifies a group of one or more columns in a table for formatting
+.<col>	Specifies column properties for each column within a <colgroup> element
+.<thead>	Groups the header content in a table
+.<tbody>	Groups the body content in a table
+.<tfoot>	Groups the footer content in a table
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-<area> 
-<base> 
-<br> 
-<col> 
-<command> 
-<embed> 
-<hr> 
-<img> 
-<input> 
-<keygen> 
-<link>
-<meta>
-<param> 
-<source> 
-<track> 
-<audio> 
-<wbr> 
+.<area> 
+.<base> 
+.<br> 
+.<col> 
+.<command> 
+.<embed> 
+.<hr> 
+.<img> 
+.<input> 
+.<keygen> 
+.<link>
+.<meta>
+.<param> 
+.<source> 
+.<track> 
+.<audio> 
+.<wbr> 
 
 
 ### 23. Links
