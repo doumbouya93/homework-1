@@ -123,7 +123,7 @@ Please edit this file to add your answers to the following questions.
 ### 9. HTTPS
 
 What does the S stand for in HTTPS?
-Security
+Secured
 
 Why is HTTPS better than HTTP? 
 Because HTTPS is more secured Than HTTP especially when inputing sensitive information.
