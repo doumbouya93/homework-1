@@ -37,7 +37,7 @@ Then click the pencil icon to edit it:
 
 ![Edit button](./images/edit.png)
 
-Next, edit this line to add your name: **Jonathan Fabian**
+Next, edit this line to add your name: **ibrahim doumbouya**
 
 Click the "Preview changes" tab to see your changes.
 
@@ -129,7 +129,7 @@ Why is HTTPS better than HTTP?
 Because HTTPS is more secured Than HTTP especially when inputing sensitive information.
 
 Should all web pages use HTTPS? 
-No.
+yes.
 
 
 ## Webpages
@@ -142,29 +142,25 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-A webpage is a simple document displayable by a browser. 
+A webpage is a html document displayable by a browser. 
 
 
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
-https://www.mbusa.com/en/home - Mercedez Benz home page
+www.youtube.com
 
-USER-FRIENDLY
-RESPONSIVE DESIGN
-PERSONALIZED USER EXPERIENCE
-
-
+user-friendly
+fun videos
 
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
-http://www.roverp6cars.com/
+www.seneweb.com
 
-BAD COLOR COMBINATION
-NO SENSE OF MINIMALISM
-LOW RESOLUTION PICTURES
+too much logs 
+too much advertisment 
 
 
 ### 13. Resources
@@ -184,8 +180,6 @@ Is a markup language that defines a set of rules for encoding documents in a for
 
 What is XHTML? 
 XHTML stands for EXtensible HyperText Markup Language.
-XHTML is almost identical to HTML, stricter than HTML and defined as an XML application.
-XHTML is supported by all major browsers.
 
 
 ### 15. HTML
@@ -213,13 +207,13 @@ Markup Validation Service.
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development? 
-The Web must be accessible to provide equal access and equal opportunity to people with diverse abilities. Accessibility is essential for developers and organizations that want to create high quality websites and web tools, and not exclude people from using their products and services.
+The Web must be accessible to provide equal access and equal opportunity to people with diverse disabilities. 
 
 What types of people does accessibility concern? 
-People with disabilities, or special needs such as people who cant see well or not see at all and people who are death. 
+People with disabilities.
 
 What is one tool you can use to verify the accessibility of your websites?
-DYNO Mapper is a sitemap generator that checks the web accessibility of websites and online applications. 
+DYNO Mapper is a sitemap generator.
 
 
 ### 19. head / body
@@ -283,7 +277,7 @@ Ex. <a href="https://www.helloworld.com/" target="_blank">Visit Hello World!</a>
 ### 24. IFRAME
 
 What is an IFRAME?
-An IFrame(Inline Frame) is an HTML document embedded inside another HTML document on a website. 
+An IFrame is an HTML document embedded inside another HTML document on a website. 
 
 What are IFRAMEs commonly used for?
 The IFrame HTML element is often used to insert content from another source, such as an advertisement, into a Web page.
@@ -317,7 +311,7 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
-Just right.
+too fast.
 
 
 ### 29. Jobs
